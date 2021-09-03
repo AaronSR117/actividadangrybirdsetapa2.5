@@ -1,2 +1,2 @@
 # angryBirdsEtapa2
-Angry Birds etapa 2 con Herencia de Clase e Imágenes
+angry birds etapa 2 con clases e imagenes editado por Aaron
